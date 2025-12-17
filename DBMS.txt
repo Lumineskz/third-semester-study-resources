@@ -1,0 +1,10 @@
+Left join
+Right join
+Inner Join
+Outer Join
+
+1NF
+2NF
+3NF
+BCNF
+
